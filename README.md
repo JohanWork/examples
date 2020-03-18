@@ -103,8 +103,7 @@ This example covers the following concepts:
 Author: [Johan Hansson](https://github.com/JohanWork)
 
 This example covers the following concepts:
-1. How to create pipeline components from python functions and combining it with
-a container operations in jupyter notebook
+1. How to create pipeline components from python functions and combining it with a container operations
 2. How to compile and run a pipeline from jupyter notebook
 
 
