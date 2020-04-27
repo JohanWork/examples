@@ -1,4 +1,4 @@
-name: Echo
+name: Echo variables
 description: Echos the input variables
 inputs:
   - {name: input_1, type: Float, description: 'Data for Input 1'}
